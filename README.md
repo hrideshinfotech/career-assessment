@@ -70,14 +70,8 @@ WhatsApp पर संदेश भेजने से पहले उम्म
 - JavaScript
 - GitHub Pages
 - WhatsApp Click-to-Chat Integration
-- Blogger iframe Integration
 
-🌍 Platform Integration
-
-यह एप्लिकेशन GitHub Pages पर होस्ट है और E4you.in के Blogger प्लेटफॉर्म पर iframe के माध्यम से प्रदर्शित किया जाता है।
-
-इससे एप्लिकेशन स्वतंत्र रहता है और मुख्य वेबसाइट की ब्रांडिंग तथा प्रकाशन व्यवस्था भी बनी रहती है।
-
+  
 🏢 Developed & Managed By
 
 Hridesh Infotech
